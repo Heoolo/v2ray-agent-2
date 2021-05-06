@@ -110,7 +110,7 @@
 - Latest Version
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Heoolo/v2ray-agent-2/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - Stable-v2.2.24
